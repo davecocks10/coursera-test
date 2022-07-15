@@ -35,7 +35,7 @@ h1 {
   clear: margin;
   position: relative;
   color: #FFFFFF;
-  background-color: #020202;
+  background-color: #616161;
   padding: 10px;
   padding-top: 45px;
   font-size: 100%;
@@ -46,16 +46,16 @@ h1 {
   }  
   /********* Region positioning text align margins and style **********/
   .chicken{
-    background-color:#33F4CC;         
-    color: black;
+    background-color:#FF7373;         
+    color: #CF0505;
     }
    .beef{
-    background-color:#DA33FF;
-    color: white;  
+    background-color:#73ECFF;
+    color: #1169E1;  
    }
    .sushi{
-    background-color:#FF3390;
-    color: white;   
+    background-color:#FF99D8;
+    color: #6F445F;   
    }
 /********** Large devices only **********/
 @media (min-width: 992px) {  
