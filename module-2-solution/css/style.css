@@ -34,8 +34,8 @@ h1 {
 .section {  
   clear: margin;
   position: relative;
-  color: black;
-  background-color: lightgrey;
+  color: #FFFFFF;
+  background-color: #020202;
   padding: 10px;
   padding-top: 45px;
   font-size: 100%;
@@ -46,7 +46,7 @@ h1 {
   }  
   /********* Region positioning text align margins and style **********/
   .chicken{
-    background-color:#33FOFF;         
+    background-color:#33F4CC;         
     color: white;
     }
    .beef{
