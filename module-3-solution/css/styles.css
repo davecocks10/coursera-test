@@ -1,37 +1,33 @@
+
 * {
     box-sizing: border-box;
 }
+
 #nav-list > li {
     text-align: center;
 }
+
 div section {
-    margin: 5px;
-    padding: 5px;
+    margin: 10px;
+    padding: 10px;
 }
-#section-chicken{
-    background-color: #FF7373;
-    border: 1 px solid #61122F
-}
-
-#section-beef{
-    background-color: #73ECFF;
-    border: 1 px solid #61122F
+#section-1{
+    background-color: #B3E5FF;
 }
 
-#section-sushi{
-    background-color: #FF99D8;
-    border: 1 px solid #61122F
+#section-2 {
+    background-color: #FFC7B3;
+}
+
+#section-3 {
+    background-color: #C3FF80;
 }
 
 #text > h3 {
-    margin-bottom: 20px;
+    margin-bottom: 15px;
 }
 
 #header-nav .navbar-brand {
     position: absolute;
-    left: 15px;
-    font-style: italic;
-    font-weight: bold;
-    font-size: 1.5em;
-    background-color: #F6B319
+    left: 10px;
 }
