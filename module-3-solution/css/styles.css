@@ -11,19 +11,19 @@ div section {
     margin: 10px;
     padding: 10px;
 }
-#section-1{
+#section-chicken{
     background-color: #B3E5FF;
     border: 1px solid black;
 }
 
-#section-2 {
+#section-beef{
     background-color: #FFC7B3;
     border: 1px solid black;
 }
 
-#section-3 {
+#section-sushi {
     background-color: #C3FF80;
-    border: 1px solid black;
+    background-color: #222;
 }
 
 #text > h3 {
@@ -35,7 +35,7 @@ div section {
     left: 10px;
     font-size: 1.5em;
     font-style: italic;
-    font-weight: Bold
+    font-weight: Bold;
     background-color: #222;
   
 }
