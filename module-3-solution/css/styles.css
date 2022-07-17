@@ -6,6 +6,8 @@
 #nav-list > li {
     text-align: center;
     border: 1px solid black;
+    font-weight: bold;
+    font-size: 1.3em;
 }
 
 div section {
@@ -40,5 +42,5 @@ div section {
 }
 
 #header-nav {
-    background-color: lightgray;
+    background-color: #FEFC86;
     
