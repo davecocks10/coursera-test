@@ -23,7 +23,7 @@ div section {
 
 #section-sushi {
     background-color: #C3FF80;
-    background-color: #222;
+    border: 1px solid black;
 }
 
 #text > h3 {
@@ -36,6 +36,8 @@ div section {
     font-size: 1.5em;
     font-style: italic;
     font-weight: Bold;
-    background-color: #222;
-  
 }
+
+#header-nav {
+    background-color: lightgray;
+    
