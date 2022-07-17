@@ -5,6 +5,7 @@
 
 #nav-list > li {
     text-align: center;
+    border: 1px solid black;
 }
 
 div section {
