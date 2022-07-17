@@ -13,14 +13,17 @@ div section {
 }
 #section-1{
     background-color: #B3E5FF;
+    1px solid black;
 }
 
 #section-2 {
     background-color: #FFC7B3;
+    1px solid black;
 }
 
 #section-3 {
     background-color: #C3FF80;
+    1px solid black;
 }
 
 #text > h3 {
@@ -30,4 +33,8 @@ div section {
 #header-nav .navbar-brand {
     position: absolute;
     left: 10px;
+    font-size: 1.5em;
+    font-style: italic;
+    font-weight: Bold
+  
 }
