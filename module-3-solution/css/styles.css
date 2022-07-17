@@ -2,25 +2,25 @@
     box-sizing: border-box;
 }
 #nav-list > li {
-    font-size 1.3em;
-    background-color: lightgray
     text-align: center;
 }
 div section {
     margin: 5px;
     padding: 5px;
-    border: 1 px solid #61122F
 }
 #section-chicken{
     background-color: #FF7373;
+    border: 1 px solid #61122F
 }
 
 #section-beef{
     background-color: #73ECFF;
+    border: 1 px solid #61122F
 }
 
 #section-sushi{
     background-color: #FF99D8;
+    border: 1 px solid #61122F
 }
 
 #text > h3 {
