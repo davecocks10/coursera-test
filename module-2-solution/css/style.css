@@ -14,7 +14,7 @@ body {
 h2{
   width: 950px;
   height: 200px;
-  left: 750px;
+  right: 750px;
   border:1px solid black;
   text-align:center;
   padding: center;
