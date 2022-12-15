@@ -14,10 +14,11 @@ body {
 h2{
   position: absolute;
   margin: auto;
+  top: 10px;
   float: none;
   width: 950px;
   height: 200px;
-  border:1px solid green;
+  border:1px solid black;
   text-align:center;
   padding: center;
   }
