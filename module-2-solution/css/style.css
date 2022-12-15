@@ -13,12 +13,11 @@ body {
 , size, border and !float clearing!********/
 h2{
   position: absolute;
-  top: 150px;
-  right:0px;
+  top: 650px;
   margin: auto;
   float: none;
-  width: 550px;
-  height: 100px;
+  width: 1550px;
+  height: 200px;
   border:1px solid black;
   text-align:center;
   padding: center;
