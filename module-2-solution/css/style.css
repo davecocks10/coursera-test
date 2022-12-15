@@ -34,7 +34,7 @@ h1 {
 .section {  
   clear: margin;
   position: relative;
-  color: #FFFFFF;
+  color: green;
   background-color: #616161;
   padding: 15px;
   padding-top: 30px;
